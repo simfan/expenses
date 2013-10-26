@@ -1,0 +1,13 @@
+repairs
+supplies
+fuel
+feed
+W,E,T
+labor hired
+insurance
+rent
+interest
+seed
+vet
+chemicals
+rental
